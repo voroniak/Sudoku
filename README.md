@@ -7,7 +7,7 @@ works and give you an example where you can use it.
 - solve sudoku of any (correct) size;
   # Methods and properties
   |  Method | Description |
-  |---------|:-----------:|
+  |---------|-----------|
   | public void PrintBoard() | print board on console |
   |  private List<int> FindEmpty() | find first empty element and return`s his position|
   | private bool Valid (int number, List<int> position)| checks if numer is able to be next on line, column or squares |
